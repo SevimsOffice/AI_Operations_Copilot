@@ -1,0 +1,21 @@
+complaint_id,date,customer_name,issue_type,description,severity,status,resolution_time_days
+CMP-2026001,2026-04-16,Amanda Miller,Wrong Item Shipped,Received two copies of the same item (USB hub) instead of the USB hub + laptop stand combo ordered.,Medium,Resolved,7
+CMP-2026002,2026-02-19,Charles Allen,Missing Item,Multi-item order arrived but one of three accessories (phone case) was not in the box.,Medium,Open,
+CMP-2026003,2026-02-03,Richard Wilson,Damaged Packaging,Box arrived severely crushed; the glass photo frame inside is shattered.,Medium,Resolved,10
+CMP-2026004,2026-02-28,Sarah Thomas,Billing Error,Discount code SAVE20 was applied at checkout but the final invoice shows full price.,Medium,Open,
+CMP-2026005,2026-01-30,Charles Moore,Product Defect,Bluetooth speaker emits constant static noise on all audio sources; appears to be a hardware fault.,High,Resolved,14
+CMP-2026006,2026-02-08,Megan Allen,Missing Item,Gym kit bundle delivered without the resistance bands shown in the product images.,Medium,Resolved,4
+CMP-2026007,2026-02-13,Ashley Williams,Refund Not Processed,Return was delivered to the warehouse on April 2nd; 18 days later no refund has appeared.,High,Resolved,17
+CMP-2026008,2026-03-03,Megan Garcia,Poor Communication,Was promised a callback within 24 hours; never received one despite two follow-up calls.,Medium,Open,
+CMP-2026009,2026-04-06,David Walker,Damaged Packaging,Box arrived severely crushed; the glass photo frame inside is shattered.,Low,Open,
+CMP-2026010,2026-03-04,Emily Harris,Billing Error,Double-charged for a single order; two identical debits appeared on my bank statement.,Medium,Open,
+CMP-2026011,2026-04-23,Jessica Anderson,Product Defect,Laptop keyboard has several keys that are unresponsive right out of the box.,High,Open,
+CMP-2026012,2026-02-18,Richard Jackson,Poor Communication,Sent three emails over two weeks with no response from support team regarding my return request.,Medium,Open,
+CMP-2026013,2026-02-11,Matthew Anderson,Product Defect,Coffee maker's heating element failed after only 2 uses. Unit will not reach temperature.,High,Resolved,12
+CMP-2026014,2026-02-01,Michael Wilson,Wrong Item Shipped,Ordered red sneakers in size 10; received blue sandals in size 8 — completely different product.,Medium,Resolved,8
+CMP-2026015,2026-03-30,Matthew White,Poor Communication,Was promised a callback within 24 hours; never received one despite two follow-up calls.,Low,Resolved,2
+CMP-2026016,2026-01-26,Daniel Martin,Delivery Delay,Order placed 12 days ago; tracking shows no movement for 6 days. Needed for an event last weekend.,High,Resolved,5
+CMP-2026017,2026-01-23,Rachel Walker,Refund Not Processed,Tracking confirms return receipt but the $74.50 credit still hasn't hit my account after 3 weeks.,High,Resolved,14
+CMP-2026018,2026-03-26,Daniel Wilson,Delivery Delay,Order placed 12 days ago; tracking shows no movement for 6 days. Needed for an event last weekend.,Medium,Open,
+CMP-2026019,2026-04-23,Amanda Wilson,Delivery Delay,Standard 3-day shipping selected but item arrived 9 days later with no proactive notification.,Medium,Resolved,9
+CMP-2026020,2026-03-20,James Wilson,Wrong Item Shipped,Ordered red sneakers in size 10; received blue sandals in size 8 — completely different product.,Medium,Open,

@@ -1,0 +1,13 @@
+anthropic
+openai
+langgraph
+langchain-anthropic
+langchain-openai
+llama-parse
+llama-index-core
+chromadb
+streamlit
+pydantic>=2.0
+pandas
+python-dotenv
+openpyxl
